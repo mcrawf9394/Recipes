@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+#navigation {
+    color: white;
+    border: 30px white;
+    height: 100px;
+    align-content: center;
+
+}
+head {
+    margin: auto;
+    height: 50px;
+    align-content: center;
+}
+.list {
+    align-content: center;
+    color: white;
+}
